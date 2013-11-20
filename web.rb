@@ -3,5 +3,5 @@ require 'sinatra'
 # Simplest possible version -- return a text message for site root
 
 get '/' do
-  "Hello, world, from McQ  !!!"
+  "Yes, this still works.\nHello, world, from McQ  !!!"
 end
